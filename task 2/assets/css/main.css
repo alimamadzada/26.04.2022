@@ -1,0 +1,50 @@
+* {
+    text-align: center;
+}
+
+.main {
+    margin-left: 25%;
+    width: 600px;
+    background-position: center;
+}
+
+.container {
+    width: 550px;
+    background-color: #fff;
+    border-radius: 30px;
+    box-shadow: 0px 0px 10px greenyellow;
+    background-position: center;
+}
+
+.image img {
+    margin-top: 10px;
+    width: 25%;
+    border-radius: 50% 50% 50% 50%;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+span {
+    color: gray;
+}
+
+.insta {
+    width: 2.5%;
+    margin-right: 125px;
+}
+
+.face {
+    margin-bottom: 18px;
+    width: 2.5%;
+    margin-right: 125px;
+}
+
+button {
+    width: 120px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    border: 0ch;
+}

@@ -1,0 +1,12 @@
+.container {
+    text-align: center;
+    width: 100vh;
+    background-color: #fff;
+    height: 450px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #cbcdcf;
+}
+
+.first {
+    border: 5px solid green;
+}

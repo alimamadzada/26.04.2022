@@ -1,0 +1,35 @@
+.container {
+    text-align: center;
+    background-position: center;
+}
+
+.container hr {
+    width: 70%;
+    border-color: aqua;
+}
+
+.container h2 {
+    margin-bottom: -5px;
+}
+
+.content {
+    max-width: 930px;
+    margin-left: 200px;
+    text-align: left;
+}
+
+.content .color {
+    color: #d1633c;
+}
+
+.content p {
+    margin-top: -5px;
+}
+
+.content .second {
+    margin-top: -10px;
+}
+
+.content .third h2 {
+    margin-bottom: 30px;
+}
